@@ -17,3 +17,11 @@
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsSiliconMediario.md)
+
+---
+
+# Quarter 1
+## Activities
+### Chinese Zodiac
+[Chinese Zodiac Code](q1/zodiacSiliconMediario.py)
+[Chinese Zodiac Documentation](q1/zodiacSiliconMediario.md)
