@@ -5,8 +5,8 @@
 | Property | Data Type | Description |
 |---|---|---|
 | brand | string | identity that distinguishes where it was made |
-| weight | boolean | indicate whether the ball is large and heavy, or its small and light |
-| texture | | |
+| weight | boolean | indicates whether the ball is large and heavy, or its small and light |
+| elasticity | boolean | indicates whether the ball is bouncy, hard, or not. |
 | balls | int | number of balls used |
 ## Methods
 | Method | Description |
