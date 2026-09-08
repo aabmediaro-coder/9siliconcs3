@@ -10,15 +10,16 @@
 | balls | int | number of balls used |
 ## Methods
 | Method | Description |
-|---|---|| | |
-
-| | |
-| | |
+|---|---|
+| UpdateBrand(newbrand: string) | Updates the brand of the ball |
+| displayInfo() | Displays the brand, weight, elasticity, and number of balls |
+| changeWeight(newweight: boolean) | Changes the weight of the ball |
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
 ## I chose this class because it fills me with interest and it seems fun for me to play with. 
-
 ### Which property is the most important? Why?
+## I think the most important property is the weight of the ball because it tells if a ball is heavy or soft to play, showing the ball might be for beach, indoor, in the water ball type.
 ### Which method is the most useful? Why?
+## displayInfo() is the most useful method because it allows us to quickly see all the information about the ball's properties.
