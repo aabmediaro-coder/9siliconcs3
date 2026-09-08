@@ -15,7 +15,7 @@
 | displayInfo() | Displays the brand, weight, elasticity, and number of balls |
 | changeWeight(newweight: boolean) | Changes the weight of the ball |
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](images/Messenger_creation_E27575CF-CF82-40E6-A399-8E8AE979007A.png)
 ## Design Explanation
 ### Why did you choose this class?
 ## I chose this class because it fills me with interest and it seems fun for me to play with. 
