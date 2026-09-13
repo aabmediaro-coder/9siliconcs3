@@ -3,11 +3,11 @@
 Link to my previous activity:
 [classObjectUML](classObjectUML.md)
 ## Design Revision
-### Added public and private visibility to the attributes.
-### Made `elasticity` and `balls` private to protect the object's internal information.
-### Added `__init__()` to initialize the attributes of every new object.
-### Added getter methods to safely read the private attributes.
-### Added 'addBalls()` to safely modify the private ball count.
+- Added public and private visibility to the attributes.
+- Made 'elasticity' and 'balls' private to protect the object's internal information.
+- Added '__init__()' to initialize the attributes of every new object.
+- Added getter methods to safely read the private attributes.
+- Added 'addBalls()` to safely modify the private ball count.
   
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
