@@ -7,10 +7,10 @@ Describe any changes made to your original class.
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
-| brand | string | private | To protect the brand information and control how it is changed |
-| weight | boolean | private | To prevent the value from being changed directly outside the class |
-| elasticity | boolean | public | Allows the object's elasticity information to be accessed directly |
-| balls | int | public | Allows the number of balls to be accessed directly |
+| brand | string | public | Identifies the ball's brand and can be accessed normally |
+| weight | boolean | public | Indicates whether the ball is heavy or not |
+| elasticity | boolean | private | Protects the ball's elasticity information from direct changes |
+| balls | int | private | Prevents the number of balls from being changed to an invalid value |
 ## Updated UML Class Diagram
 ![Class Diagram](images/classDiagramSG5.png)
 ## Python Implementation
