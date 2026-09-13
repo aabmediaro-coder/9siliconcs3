@@ -12,7 +12,7 @@ Describe any changes made to your original class.
 | elasticity | boolean | private | Protects the ball's elasticity information from direct changes |
 | balls | int | private | Prevents the number of balls from being changed to an invalid value |
 ## Updated UML Class Diagram
-![Class Diagram](Screenshot_20260914-061708_1.png)
+![Class Diagram](images/Screenshot_20260914-061708_1.png)
 ## Python Implementation
 
 [View Python Source](classImplementation.py)
