@@ -25,4 +25,4 @@
 ### OOPAct1
 [classObjectUML](q1/classObjectUML.md)
 ### OOPAct2
-[classAttributesMethods](q1/classAttributesMethods)
+[classAttributesMethods](q1/classAttributesMethods.md)
