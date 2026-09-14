@@ -1,6 +1,6 @@
 # SG4 - Understanding Classes and Objects
 ## Volleyball
-## A net sport which has 2 teams competing over who gets the ball to the opponent's court first by hitting the ball before it reaches the ground. Each team has 6 players inside the corner of their court to compete against the other, until reaching a point of 25with 3 sets, but if a deuce occurs (both teams reached a score of 24), they would need to score two consecutive points to garner the win, therefore the game does not stop until one team is two points up than the other if its a deuce, and the team that has the most won sets shall be the winner. 
+## A net sport which has 2 teams competing over who gets the ball to the opponent's court first by hitting the ball before it reaches the ground. Each team has 6 players inside the corner of their court to compete against the other, until reaching a point of 25 with 3 sets, but if a deuce occurs (both teams reached a score of 24), they would need to score two consecutive points to garner the win, therefore the game does not stop until one team is two points up than the other if its a deuce, and the team that has the most won sets shall be the winner. 
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
