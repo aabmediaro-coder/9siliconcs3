@@ -4,14 +4,14 @@
 
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
-Class:
-Description:
+Class: Volleyball
+Description: 
 ## New Related Class
-Class:
-Description:
+Class: Sport
+Description: A Sport is simply a game wherein the body is trained to excessively improve how your body feel, move, and repeatedly make difficult movements. This class represents indoor and oudoor games that has strict rules needed to be followed. It sometimes has objects that are used for the game. It can be also really competitive as this helps determine who or what team is the greteast at which specific sport.
 ## Association
-Relationship:
-Explanation:
+Relationship: Volleyball is under sport.
+Explanation: Sports consists of all health-related and skill-related fitness that are sometimes used in volleyball. Specifically, sports 
 ## Multiplicity
 
 Multiplicity:
