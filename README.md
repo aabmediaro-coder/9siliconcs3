@@ -1,6 +1,6 @@
-# I am Ally Aimos B. Mediario
-# I am from 9-Silicon
-# my email is aabmediaro@brc.pshs.edu.ph
+# Name: Ally Aimos B. Mediario
+# Grade & Section: 9-Silicon
+# email: aabmediaro@brc.pshs.edu.ph
 # ally
 
 ---
