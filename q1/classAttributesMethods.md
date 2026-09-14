@@ -21,7 +21,7 @@ Link to my previous activity:
 ## Python Implementation
 [View Python Source](classImplementation.py)
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](images/Screenshot_20260914-085833_1.png)
 ## Object Diagram
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis
