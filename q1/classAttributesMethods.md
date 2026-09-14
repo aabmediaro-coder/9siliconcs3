@@ -23,7 +23,7 @@ Link to my previous activity:
 ## Test Run
 ![Test Run](images/Screenshot_20260914-085833_1.png)
 ## Object Diagram
-![Object Diagram](images/Screenshot_20260914-085833_1.png)
+![Object Diagram](images/
 ## Analysis
 ### Why did you make your chosen attribute private?
 - I made the balls and elasticity attributes private to protect the information inside the volleyball. If other parts of the program changed the number of balls directly, they might set it to an invalid value, such as negative number. Keeping these attributes private allows the class to control how the number of balls are changes.
