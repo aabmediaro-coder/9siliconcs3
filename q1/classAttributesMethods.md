@@ -19,7 +19,6 @@ Link to my previous activity:
 ## Updated UML Class Diagram
 ![Class Diagram](images/Screenshot_20260914-061708_1.png)
 ## Python Implementation
-
 [View Python Source](classImplementation.py)
 ## Test Run
 ![Test Run](images/classTestRun.png)
