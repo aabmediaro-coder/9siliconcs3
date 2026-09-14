@@ -1,8 +1,11 @@
 # Computational Thinking Exercise
 ## [Smart School Canteen Queue]
 **Name:** Ally
+
 **Section:** Silicon
+
 **Last Name:** Mediario
+
 **Date:** August 20, 2026
 ---
 
