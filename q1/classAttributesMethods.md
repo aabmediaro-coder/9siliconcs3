@@ -27,6 +27,10 @@ Link to my previous activity:
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis
 ### Why did you make your chosen attribute private?
+- I made the balls and elasticity attributes private to protect the information inside the volleyball. If other parts of the program changed the number of balls directly, they might set it to an invalid value, such as negative number. Keeping these attributes private allows the class to control how the number of balls are changes.
 ### Which method changes the state of your object?
+- The changeWeight() method changes the state of my object. It affects the weight attribute by assigning it a new boolean value. In my test run, Object 1's weight changed from False to True, while its other attributes stayed the same.
 ### How did your two objects demonstrate that instances are independent?
+- My two objects, volleyball1 and volleyball2, were created from the same Volleyball class but had different values. When I changed Object 1's weight, Object 2's weight remained True and its other attributes were not changed.
 ### What is the difference between your class diagram and your object diagram?
+- The class diagram shows the blueprint of the Volleyball class, including its attributes, data types, visibility, and methods. The object diagram shows the actual instances created from that class. In my project, the class diagram describes what possible volleyball object can have, while the object diagram shows the specific values of volleyball1 and volleyball2 after the method was executed.
