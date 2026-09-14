@@ -1,6 +1,9 @@
 **Name:** Ally
+
 **Section:** Silicon
+
 **Last Name:** Mediario
+
 **Date:** August 20, 2026
 
 ## Requirements
