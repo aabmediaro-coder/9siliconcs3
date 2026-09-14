@@ -26,3 +26,5 @@
 [classObjectUML](q1/classObjectUML.md)
 ### OOPAct2
 [classAttributesMethods](q1/classAttributesMethods.md)
+### OOPAct3
+[classRelationships](q1/classRelationships.md)
