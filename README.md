@@ -28,3 +28,5 @@
 [classAttributesMethods](q1/classAttributesMethods.md)
 ### OOPAct3
 [classRelationships](q1/classRelationships.md)
+### OOPAct4
+[advancedRelationships](q1/advancedRelationships.md)
