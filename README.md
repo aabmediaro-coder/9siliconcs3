@@ -30,3 +30,16 @@
 [classRelationships](q1/classRelationships.md)
 ### OOPAct4
 [advancedRelationships](q1/advancedRelationships.md)
+
+# Quarter 2
+## Activities
+### Encapsulation
+[Encapsulation](q2/sg8_encapsulation.py)
+### Inheritance
+[Inheritance](q2/sg9_inheritance.py)
+
+
+
+
+
+
