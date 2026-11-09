@@ -37,6 +37,12 @@
 [Encapsulation](q2/sg8_encapsulation.py)
 ### Inheritance
 [Inheritance](q2/sg9_inheritance.py)
+### Zoo Management System
+[Zoo Management System](q2/sg10_method_overriding)
+### Polymorphism1
+[Polymorphism1](q2/sg11_polymorphism1)
+### Polymorphism2
+[Polymorphism1](q2/sg11_polymorphism2)
 
 
 
